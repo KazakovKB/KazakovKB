@@ -6,7 +6,7 @@
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-212529?logo=Git&logoColor=orange&color=212529"> <img alt="Static Badge" src="https://img.shields.io/badge/NumPy-212529?logo=NumPy&logoColor=orange&color=212529"> <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-212529?logo=Pandas&logoColor=orange&color=212529"> <img alt="Static Badge" src="https://img.shields.io/badge/Plotly-212529?logo=Plotly&logoColor=orange&color=212529"> <img alt="Static Badge" src="https://img.shields.io/badge/SciPy-212529?logo=SciPy&logoColor=orange&color=212529"> <img alt="Static Badge" src="https://img.shields.io/badge/Linux-212529?logo=Linux&logoColor=orange&color=212529"> <img alt="Static Badge" src="https://img.shields.io/badge/Scikit%20Learn-212529?logo=scikitlearn&logoColor=orange&color=212529">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazakovKB&layout=compact&bg_color=212529&text_color=fd7e14&title_color=ffffff&border_color=212529)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazakovKB&hide=css&layout=compact&bg_color=212529&text_color=fd7e14&title_color=ffffff&border_color=212529)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-212529?logo=Telegram&logoColor=orange&color=212529)](https://t.me/Kazakov_KB) [![Discord](https://img.shields.io/badge/Discord-212529?logo=Discord&logoColor=orange&color=212529)](https://discord.com/users/kazakovkirill) [![Gmail](https://img.shields.io/badge/Gmail-212529?logo=gmail&logoColor=orange&color=212529)](mailto:kazakovkirill.mail@gmail.com)
