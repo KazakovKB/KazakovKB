@@ -2,6 +2,9 @@
 С 2020 года специализируюсь на анализе данных финансовых рынков. Личное развитие всегда было моей основной целью, что мотивировало меня изучать наиболее современные и эффективные инструменты для анализа данных. За последние четыре года я проделал путь от эмпирического анализа графиков до начала разработки торговых алгоритмов и применения статистических методов. Теперь, желая расширить свои профессиональные
 границы, я нацелен на переход в сферу продуктовой аналитики.
 
+#### Контакты
+[![Telegram](https://img.shields.io/badge/Telegram-212529?logo=Telegram&logoColor=orange&color=212529)](https://t.me/Kazakov_KB) [![Discord](https://img.shields.io/badge/Discord-212529?logo=Discord&logoColor=orange&color=212529)](https://discord.com/users/kazakovkirill) [![Gmail](https://img.shields.io/badge/Gmail-212529?logo=gmail&logoColor=orange&color=212529)](mailto:kazakovkirill.mail@gmail.com)
+
 #### Мой стек технологий
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=orange&color=212529"> <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-212529?logo=PostgreSQL&logoColor=orange&color=212529"> <img alt="Static Badge" src="https://img.shields.io/badge/ClickHouse-212529?logo=Clickhouse&logoColor=orange&color=212529"> <img alt="Static Badge" src="https://img.shields.io/badge/Docker-212529?logo=Docker&logoColor=orange&color=212529"> <img alt="Static Badge" src="https://img.shields.io/badge/Tableau-212529?logo=Tableau&logoColor=orange&color=212529"> <img alt="Static Badge" src="https://img.shields.io/badge/AirFlow-212529?logo=apacheairflow&logoColor=orange&color=212529">
 
@@ -27,9 +30,6 @@
 | Роман Медведев, «Основы Pandas» | [https://stepik.org/cert/2171175](https://stepik.org/cert/2171175) |
 | Игорь Ким, «SQL для всех. Level Up» | [https://stepik.org/cert/2191926](https://stepik.org/cert/2191926) |
 | Игорь Ким, «SQL для всех»           | [https://stepik.org/cert/2186102](https://stepik.org/cert/2186102) |
-
-#### Контакты
-[![Telegram](https://img.shields.io/badge/Telegram-212529?logo=Telegram&logoColor=orange&color=212529)](https://t.me/Kazakov_KB) [![Discord](https://img.shields.io/badge/Discord-212529?logo=Discord&logoColor=orange&color=212529)](https://discord.com/users/kazakovkirill) [![Gmail](https://img.shields.io/badge/Gmail-212529?logo=gmail&logoColor=orange&color=212529)](mailto:kazakovkirill.mail@gmail.com)
 
 <p align="right">
   <img alt="Profile Views" src="https://api.visitorbadge.io/api/visitors?path=KazakovKB&label=Profile%20Views&labelColor=%23212529&countColor=%231e2027">
