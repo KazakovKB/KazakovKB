@@ -34,8 +34,6 @@ My name is Kirill. I'm a Product Analyst and also a Trader & Investor.
 | karpov.courses | [Hard Analytics](https://lab.karpov.courses/certificate/236dcb3d-f2e4-4f6e-8c41-aa8730946dcc/en/) |   2024-2025    |
 | karpov.courses | [AB-tests Simulator (PRO version)](https://lab.karpov.courses/certificate/2f048f92-2ddb-4b2d-94b3-433cbfe12f12/en/) |   2024    |
 | karpov.courses | [Data analyst](https://lab.karpov.courses/certificate/0e4e94f5-d19d-4743-8e19-fcede3abfc4a/en/) |   2023-2024    |
-| karpov.courses | [Docker](https://lab.karpov.courses/certificate/4bc0b9fa-6f93-4d27-9e39-dac78c2167e8/en/) |    2023-2024    |
-| karpov.courses | [Simulator SQL](https://lab.karpov.courses/certificate/e3889eeb-1d67-4864-9eee-2bf69e8bc17a/en/) |      2023      |
 
 <p align="right">
   <img alt="Profile Views" src="https://api.visitorbadge.io/api/visitors?path=KazakovKB&label=Profile%20Views&labelColor=%23212529&countColor=%231e2027">
