@@ -1,13 +1,13 @@
 ### Hi there 👋
-My name is Kirill and I'm a Product Analyst, as well as a Trader & Investor
+My name is Kirill. I'm a Product Analyst and also a Trader & Investor.
 
-- 🛠 5 years of financial market data analysis
-- 🔭 Currently working on [Lofty](https://lofty.today/) (Ad Tech) as a Product Analyst
-- 💬 Ask me about Data analysis, Financial markets and Trading
+- 🛠 Over 5 years of experience in data analysis
+- 🔭 Currently working as a Product Analyst at [Lofty](https://lofty.today/) (AdTech)
+- 💬 Feel free to ask me about data analysis, financial markets, and trading
 - 📫 How to reach me:👇
 
 
-[![Telegram](https://img.shields.io/badge/Telegram-212529?logo=Telegram&logoColor=orange&color=212529)](https://t.me/Kazakov_KB) [![Discord](https://img.shields.io/badge/Discord-212529?logo=Discord&logoColor=orange&color=212529)](https://discord.com/users/kazakovkirill) [![Gmail](https://img.shields.io/badge/Gmail-212529?logo=gmail&logoColor=orange&color=212529)](mailto:kazakovkirill.mail@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-212529?logo=Telegram&logoColor=orange&color=212529)](https://t.me/Kazakov_KB) [![Gmail](https://img.shields.io/badge/Gmail-212529?logo=gmail&logoColor=orange&color=212529)](mailto:kazakovkirill.mail@gmail.com)
 
 ----------
 #### Languages and Tools
@@ -17,7 +17,7 @@ My name is Kirill and I'm a Product Analyst, as well as a Trader & Investor
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-212529?logo=Pandas&logoColor=orange&color=212529"> <img alt="Static Badge" src="https://img.shields.io/badge/Spark-212529?logo=ApacheSpark&logoColor=orange&color=212529">
 
-<img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-212529?logo=FastAPI&logoColor=orange&color=212529"> <img alt="Static Badge" src="https://img.shields.io/badge/AirFlow-212529?logo=apacheairflow&logoColor=orange&color=212529"> 
+<img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-212529?logo=FastAPI&logoColor=orange&color=212529"> <img alt="Static Badge" src="https://img.shields.io/badge/AirFlow-212529?logo=apacheairflow&logoColor=orange&color=212529"> <img alt="Static Badge" src="https://img.shields.io/badge/Docker-212529?logo=Docker&logoColor=orange&color=212529">
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Grafana-212529?logo=Grafana&logoColor=orange&color=212529"> <img alt="Static Badge" src="https://img.shields.io/badge/Tableau-212529?logo=tableau&logoColor=orange&color=212529"> <img alt="Static Badge" src="https://img.shields.io/badge/Matplotlib-212529?logo=Matplotlib&logoColor=orange&color=212529"> <img alt="Static Badge" src="https://img.shields.io/badge/Seaborn-212529?logo=Seaborn&logoColor=orange&color=212529"> <img alt="Static Badge" src="https://img.shields.io/badge/Plotly-212529?logo=Plotly&logoColor=orange&color=212529"> 
 
