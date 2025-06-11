@@ -3,7 +3,6 @@ My name is Kirill. I'm a Product Analyst and also a Trader & Investor.
 
 - 🛠 Over 5 years of experience in data analysis
 - 🔭 Currently working as a Product Analyst at [Lofty](https://lofty.today/) (AdTech)
-- 💬 Feel free to ask me about data analysis, financial markets, and trading
 - 📫 How to reach me:👇
 
 
