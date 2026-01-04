@@ -23,8 +23,6 @@ My name is Kirill. I'm a Product Analyst and also a Trader & Investor.
 <img alt="Static Badge" src="https://img.shields.io/badge/PyTorch-212529?logo=PyTorch&logoColor=orange&color=212529"> <img alt="Static Badge" src="https://img.shields.io/badge/LightGBM-212529?logo=LightGBM&logoColor=orange&color=212529"> <img alt="Static Badge" src="https://img.shields.io/badge/Sklearn-212529?logo=scikitlearn&logoColor=orange&color=212529"> <img alt="Static Badge" src="https://img.shields.io/badge/Catboost-212529?logo=catboost&logoColor=orange&color=212529"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/Xgboost-212529?logo=xgboost&logoColor=orange&color=212529"> <img alt="Static Badge" src="https://img.shields.io/badge/NumPy-212529?logo=NumPy&logoColor=orange&color=212529"> <img alt="Static Badge" src="https://img.shields.io/badge/SciPy-212529?logo=SciPy&logoColor=orange&color=212529"> <img alt="Static Badge" src="https://img.shields.io/badge/Statsmodels-212529?logo=StatsModels&logoColor=orange&color=212529">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazakovKB&hide=css&layout=compact&bg_color=212529&text_color=fd7e14&title_color=ffffff&border_color=212529)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ----------
 #### Certificates
