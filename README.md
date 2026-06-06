@@ -1,8 +1,8 @@
 ### Hi there 👋
-My name is Kirill. I'm a Product Analyst and also a Trader & Investor.
+My name is Kirill. I'm a Product Analyst.
 
 - 🛠 Over 5 years of experience in data analysis
-- 🔭 Currently working as a Product Analyst at [Lofty](https://lofty.today/) (AdTech)
+- 🔭 Currently working as a Product Analyst at Findmykids
 - 📫 How to reach me:👇
 
 
